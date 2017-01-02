@@ -1,7 +1,7 @@
 {
-  "name": "influencity-crawler",
+  "name": "Node.js API REST Tutoriales",
   "version": "1.0.0",
-  "description": "Influencity Hiring Test",
+  "description": "API REST - Videotutoriales Carlos Azaustre",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
